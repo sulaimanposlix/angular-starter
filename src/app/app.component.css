@@ -1,0 +1,18 @@
+/* $prime: #ff6e48
+$ciBlue: #00FFF1
+$ciRed: #ff00aa
+$ciGreen: #8fd3b8
+$second: #0c1016
+
+p
+    color: white
+from
+    width: 30rem
+    display: flex
+    flex-direction: column
+
+    input
+        padding: 2rem
+        border-radius: 1rem
+        color: white
+        back */
